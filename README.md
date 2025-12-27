@@ -32,8 +32,8 @@ This project demonstrates **manual QA testing** of the OpenCart e-commerce websi
 5. View **Screenshots/** folder to see visual evidence of testing.
 
 ## Outcome
-- Total Test Cases Executed: 40
-- Passed: 40
+- Total Test Cases Executed: 37
+- Passed: 37
 - Failed: 0
 - Bugs Logged: 7
 - Application Status: Stable and ready for release
